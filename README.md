@@ -23,7 +23,6 @@ This repository contains implementations of cycle-by-cycle simulators for APEX (
 ### 2. Out-of-Order Pipeline Simulator
 - Built from scratch implementation of an out-of-order execution pipeline
 - Advanced architectural features for improved performance
-- [Note: Original implementation details to be updated]
 
 ## Instruction Set Architecture (ISA)
 
