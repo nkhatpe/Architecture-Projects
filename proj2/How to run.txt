@@ -1,0 +1,36 @@
+# There are two versions of the apex ooo simulator
+
+1. APEX OOO CPP (Version in CPP... does not contains clock cycles... tried introducing the clock cycles had issues)
+
+2. APEX OOO C   (Version in C... Has clock cycles... )
+
+
+How to run 
+
+1. APEX OOO CPP
+
+run make file
+
+make
+
+./apex_sim
+
+You will see the test cases result on the console
+
+main.cpp contains the test cases of ROB operations, Register Manager, Control Predictor, Load/Store Queue, etc
+
+
+
+How to run
+
+2. APEX OOO C
+
+run makefile
+
+make
+
+./apex_sim input.asm
+
+cycle by cycle simulation of test cases
+
+test cases are present in input.asm, input1.asm, input2.asm ...
