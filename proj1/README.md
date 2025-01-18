@@ -61,12 +61,4 @@ Below are the instructions how to use the simulator
 	  simulate followed by number '10' '20' '30' etc
 	  setmem <test-data file name> I have added sample test_data.txt and its working as expected!
 
-## Author
-
- - Copyright (C) Gaurav Kothari (gkothar1@binghamton.edu)
- - State University of New York, Binghamton
-
-## Bugs
-
- - Please contact your TAs for any assistance or query
- - Report bugs at: gkothar1@binghamton.edu
+Information from the author!
